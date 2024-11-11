@@ -1,3 +1,6 @@
+# AZURE example
+https://blog.devops.dev/ci-cd-pipeline-automation-with-azure-devops-argocd-kubernetes-e0be5e613d32
+
 # Example Voting App
 
 A simple distributed application running across multiple Docker containers.
